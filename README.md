@@ -15,7 +15,7 @@ A containerized, full-stack platform for exploring and managing over **800K astr
 - Added analytics dashboards to understand usage and performance
 
 **Tech:** React · Flask · Node.js · MongoDB · Docker  
-🔗 *Repository link*
+🔗 *🤖🚧*
 
 ---
 
@@ -28,7 +28,7 @@ An iOS app for capturing trips with photos, notes, timestamps, and location data
 - Search and sort entries by title or date
 
 **Tech:** Swift · UIKit · Core Location · MapKit  
-🔗 *Repository link*
+🔗 *🤖🔨*
 
 ---
 
@@ -41,7 +41,7 @@ An interactive 3D maze built from scratch using WebGL.
 - Optimized GPU buffers and draw calls
 
 **Tech:** JavaScript · WebGL · GLSL  
-🔗 *Repository link*
+🔗 *🤖🔨*
 
 ---
 
