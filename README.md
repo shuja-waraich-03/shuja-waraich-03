@@ -166,6 +166,9 @@
     <a href="https://github.com/shuja-waraich-03/MazeProject">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuja-waraich-03&repo=MazeProject&theme=onedark" />
     </a>
+    <a href="https://github.com/shuja-waraich-03/Journey.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuja-waraich-03&repo=Journey&theme=onedark" />
+    </a>
     <a href="https://github.com/Vysubs28/360-No-Scope">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vysubs28&repo=360-No-Scope&theme=onedark" />
     </a>
