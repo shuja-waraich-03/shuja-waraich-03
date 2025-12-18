@@ -166,7 +166,7 @@
     <a href="https://github.com/shuja-waraich-03/MazeProject">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuja-waraich-03&repo=MazeProject&theme=onedark" />
     </a>
-    <a href="https://github.com/shuja-waraich-03/Journey.git">
+    <a href="https://github.com/shuja-waraich-03/Journey">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuja-waraich-03&repo=Journey&theme=onedark" />
     </a>
     <a href="https://github.com/Vysubs28/360-No-Scope">
