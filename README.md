@@ -130,33 +130,6 @@
   <img alt="Godot" src="https://img.shields.io/badge/Godot-3E3E3E?style=for-the-badge&logo=godotengine&logoColor=white">
 </a>
 
-<!-- <h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Shuja's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shuja-waraich-03&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shuja-waraich-03&show_icons=true&locale=en&layout=compact&theme=algolia" alt="shuja-waraich-03" height="192px"/>
-  <br/>
-  </p>
-</details>
-
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/shuja-waraich-03"><img alt="Shuja's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shuja-waraich-03&custom_title=Shuja's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details> -->
-
-
-
-```html
-```
 
 <div align="center">
   <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
@@ -167,11 +140,12 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuja-waraich-03&repo=MazeProject&theme=onedark" />
     </a>
     <a href="https://github.com/shuja-waraich-03/Journey">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuja-waraich-03&repo=Journey&theme=onedark" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuja-waraich-03&repo=Journey&theme=onedark&v=2" />
     </a>
     <a href="https://github.com/Vysubs28/360-No-Scope">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vysubs28&repo=360-No-Scope&theme=onedark" />
     </a>
+    
   </div>
 </div>
 
