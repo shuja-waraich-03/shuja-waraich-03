@@ -17,7 +17,7 @@
 - 🎓 I'm a Computer Science student at Knox College
 - 🤖 I'm passionate about AI/ML and building full-stack systems that leverage intelligent models
 - 💬 I like building full-stack platforms with AI integration, iOS apps, and interactive graphics
-- 👯 I'm looking to collaborate on full-stack AI/ML projects, iOS development, and graphics applications
+- 👯 I'm looking to collaborate on full-stack AI/ML projects and iOS development
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
