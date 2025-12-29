@@ -131,7 +131,7 @@
 </a>
 
 
-<div align="center">
+<!-- <div align="center">
   <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
     <a href="https://github.com/shuja-waraich-03/GSPACE-Macro-Image_database_search">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuja-waraich-03&repo=GSPACE-Macro-Image_database_search&theme=onedark" />
@@ -146,7 +146,7 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vysubs28&repo=360-No-Scope&theme=onedark" />
     </a>
     
-  </div>
+  </div> -->
 </div>
 
 
