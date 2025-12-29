@@ -144,9 +144,9 @@
     </a>
     <a href="https://github.com/Vysubs28/360-No-Scope">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vysubs28&repo=360-No-Scope&theme=onedark" />
-    </a>
+    </a> -->
     
-  </div> -->
+  </div>
 </div>
 
 
