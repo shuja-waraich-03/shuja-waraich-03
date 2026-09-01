@@ -13,7 +13,7 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-waraich.shuja%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
--  Hi, I'm Shuja
+-  Hi, I'm Shuja Ullah Waraich
 -  I'm a Computer Science student at Knox College
 -  I'm passionate about AI/ML and building full-stack systems that leverage intelligent models
 -  I like building full-stack platforms with AI integration, iOS apps, and interactive graphics
