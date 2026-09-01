@@ -1,4 +1,4 @@
-
+```
 ┌─ ai systems ──────────────────────────────── -------- ─┐
 │                                                        │
 │        __          _                                   │
@@ -10,18 +10,18 @@
 │ models · agents · systems █                            │
 │                                                        │
 └────────────────────────────────────────────────────────┘
+```
 
-
-
+```
 [ Mail : waraich.shuja@gmail.com ]  ·  [ Linkedin ]
+```
 
-
-
+```
 CS & Data Science at Knox College. 
 Previously MACRO and Amuse.
+```
 
-
-
+```
 
 work/
 ├── 
@@ -38,5 +38,5 @@ stack/
 certifications/
     AWS Artificial Intelligence Foundations
     AWS Certified Cloud Practitioner
-
+```
 
