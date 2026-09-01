@@ -23,6 +23,7 @@ I build the systems around models: vision pipelines, tool-using agents, fine-tun
 CS & Data Science at Knox College. 
 Previously MACRO and Amuse.
 
+'''
 work/
 ├── 
 ├── macro          800K FITS · vector search · dual portals
@@ -38,5 +39,6 @@ stack/
 certifications/
     AWS Artificial Intelligence Foundations
     AWS Certified Cloud Practitioner
+'''
 
 
