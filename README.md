@@ -15,7 +15,7 @@
 
 
 
-I build the systems around models, vision pipelines, tool-using agents, fine-tuned inference, I enjoy exploring the capabilities that AI offers and how they can enhance the work we do
+I build the systems around models: vision pipelines, tool-using agents, fine-tuned inference ... I enjoy exploring the capabilities that AI offers while finding ways to leverage them in real applications.
 
 [ Mail : [waraich.shuja@gmail.com](mailto:waraich.shuja@gmail.com) ]  ·  [ [Linkedin](https://www.linkedin.com/in/shuja-ullah-waraich/) ]
 
