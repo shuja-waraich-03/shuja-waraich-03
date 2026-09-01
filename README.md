@@ -1,21 +1,24 @@
 ```
 ┌─ ai systems ──────────────────────────────── -------- ─┐
 │                                                        │
-│        __          _                                   │
+│ Hi I'm                                                 |
+|         __          _                                  │
 │   ___ / /  __ __  (_)__ _                              │
 │  (_-</ _ \/ // / / / _ `/                              │
 │ /___/_//_/\_,_/_/ /\_,_/                               │
-│             |___/   waraich                            │
+│             |___/                                      │
 │                                                        │
 │ models · agents · systems █                            │
 │                                                        │
 └────────────────────────────────────────────────────────┘
 ```
 
-</div>
+
 
 I build the systems around models — vision pipelines, tool-using agents, fine-tuned inference — and the interfaces that put them in front of people.
-[ Mail : waraich.shuja@gmail.com ]  ·  [ Linkedin ]
+
+
+[ Mail : [waraich.shuja@gmail.com](mailto:waraich.shuja@gmail.com) ]  ·  [ [Linkedin](https://www.linkedin.com/in/shuja-ullah-waraich/) ]
 
 ```
 CS & Data Science at Knox College. 
