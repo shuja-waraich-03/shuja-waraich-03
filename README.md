@@ -19,12 +19,9 @@ I build the systems around models: vision pipelines, tool-using agents, fine-tun
 
 [ Mail : [waraich.shuja@gmail.com](mailto:waraich.shuja@gmail.com) ]  ·  [ [Linkedin](https://www.linkedin.com/in/shuja-ullah-waraich/) ]
 
-```
+
 CS & Data Science at Knox College. 
 Previously MACRO and Amuse.
-```
-
-```
 
 work/
 ├── 
@@ -41,5 +38,5 @@ stack/
 certifications/
     AWS Artificial Intelligence Foundations
     AWS Certified Cloud Practitioner
-```
+
 
